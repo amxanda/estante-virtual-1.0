@@ -62,5 +62,5 @@ Faz a verificação de nome para mover o livro da lista "Lendo" para a lista "Li
      Autor
 </h3>
 
-💕 Amanda Mayara Melo de Matos<br>
+✨ Amanda Mayara Melo de Matos<br>
 💕 Dayane Núbia Moreira Ferreira<br>
